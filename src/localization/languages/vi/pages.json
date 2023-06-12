@@ -1,0 +1,14 @@
+{
+  "staff": {
+    "menu_name": "Quản lý nhân viên",
+    "index": {
+      "menu_name": "Danh sách nhân viên"
+    },
+    "add": {
+      "menu_name": "Thêm nhân viên"
+    },
+    "edit": {
+      "menu_name": "Chỉnh sửa nhân viên"
+    }
+  }
+}
